@@ -1,5 +1,7 @@
-<p align="center"><a href="https://spiral.dev" target="_blank"><img src="https://user-images.githubusercontent.com/773481/209963181-38d86183-792d-4c26-a35d-6d84293fe2f0.png"
-></a></p>
+<p align="center"><a href="https://spiral.dev" target="_blank">
+<img src="https://user-images.githubusercontent.com/773481/209965032-2f620bf0-c975-4804-a882-3f1195503191.png">
+</a>
+</p>
 
 
 <br>
