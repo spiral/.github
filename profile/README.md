@@ -2,7 +2,7 @@
 ></a></p>
 
 
-<br><br/>
+<br>
 
 ### 🙋‍ **Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software development**   
 
