@@ -1,4 +1,6 @@
-<p align="center"><a href="https://roadrunner.dev" target="_blank"><img src="https://github.com/spiral/.github/blob/main/logo.svg" width="800"></a></p>
+<p align="center"><a href="https://spiral.dev" target="_blank"><img src="https://user-images.githubusercontent.com/773481/209963181-38d86183-792d-4c26-a35d-6d84293fe2f0.png"
+></a></p>
+
 
 <br><br/>
 
