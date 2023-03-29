@@ -1,5 +1,5 @@
 <p align="center"><a href="https://spiral.dev" target="_blank">
-<img src="https://user-images.githubusercontent.com/773481/209967920-acf46f26-8eb6-47ae-b9c2-db7441074428.png">
+<img src="https://user-images.githubusercontent.com/773481/228578125-8e0ad713-905f-4450-a473-5839bd650472.png">
 </a>
 </p>
 
