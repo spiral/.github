@@ -9,7 +9,7 @@
 ### 🙋‍ **Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software development**   
 
 # 💬 Join our discord server: [Link](https://discord.gg/spiralphp) 
-# 🤗 Support us here: [Link](https://github.com/sponsors/roadrunner-server)
+# 🤗 Support us here: [Link](https://github.com/sponsors/spiral)
 
 #### 🗺️ Spiral Framework ecosystem:
 
