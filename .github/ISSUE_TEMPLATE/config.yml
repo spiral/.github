@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 💬 Discord
+    url: https://discord.gg/V6EK4he
+    about: Ask questions and chat with the community.
+  - name: 📖 Documentation
+    url: https://spiral.dev/docs
+    about: Read the Spiral Framework documentation.
